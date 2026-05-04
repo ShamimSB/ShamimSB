@@ -1,6 +1,6 @@
 # Hi there, I'm Shamim! 👋
 
-### Aspiring Frontend Developer | HTML5, CSS3 | Learning JavaScript (ES6)
+### 👉 Aspiring Frontend Developer | HTML, CSS, JavaScript | Learning React
 
 ---
 
