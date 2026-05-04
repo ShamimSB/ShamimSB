@@ -4,9 +4,11 @@
 
 ---
 
-- 🔭 **I’m currently working on:** Building creative and responsive web projects.
-- 🌱 **I’m currently learning:** JavaScript (ES6) and React to enhance my frontend skills.
-- 💻 **Tech Stack:** HTML5, CSS3, JavaScript.
+- 🔭 I’m currently working on: Building responsive web projects and improving my frontend skills.
+
+- 🌱 I’m currently learning: JavaScript (ES6) and preparing to learn React.
+
+- 💻 Tech Stack: HTML5, CSS3, JavaScript
 - 🚀 **Projects:** 
   - [To-Do List App](https://shamimsb.github.io/To-Do-App/)
   - [Age Calculator](https://shamimsb.github.io/Age-Calculator/)
