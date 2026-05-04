@@ -10,7 +10,7 @@
 - 🚀 **Projects:** 
   - [To-Do List App](https://shamimsb.github.io/To-Do-App/)
   - [Age Calculator](https://shamimsb.github.io/Age-Calculator/)
-- 📫 **How to reach me:** [Your LinkedIn Profile](লিংক এখানে দিন)
+- 📫 **How to reach me:** https://www.linkedin.com/in/shamim-bhuiyan-b2261b3b7/)
 
 ---
 
