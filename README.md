@@ -13,6 +13,3 @@
 - 📫 **How to reach me:** https://www.linkedin.com/in/shamim-bhuiyan-b2261b3b7/)
 
 ---
-
-### 📊 My GitHub Stats
-![Shamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShamimSB&show_icons=true&theme=tokyonight)
