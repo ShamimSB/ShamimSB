@@ -9,7 +9,7 @@
 - 💻 **Tech Stack:** HTML5, CSS3, JavaScript.
 - 🚀 **Projects:** 
   - [To-Do List App](https://shamimsb.github.io/To-Do-App/)
-  - [Age Calculator]((https://shamimsb.github.io/Age-Calculator/))
+  - [Age Calculator](https://shamimsb.github.io/Age-Calculator/)
 - 📫 **How to reach me:** [Your LinkedIn Profile](লিংক এখানে দিন)
 
 ---
